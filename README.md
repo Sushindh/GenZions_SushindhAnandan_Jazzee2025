@@ -6,4 +6,5 @@
 
 # System Architecture:
 
-![diagram-export](https://github.com/user-attachments/assets/966e3af5-93de-44e1-bdfd-13f052e8a09d)
+![image](https://github.com/user-attachments/assets/f0e0b708-9a7c-4358-a3e6-fa0df2dd457e)
+
